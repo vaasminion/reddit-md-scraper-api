@@ -1,0 +1,237 @@
+2026-03-15 19:54:38,854 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.18:5000
+2026-03-15 19:54:38,854 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-15 19:55:21,182 - INFO - dataengineersindia best test
+2026-03-15 19:55:21,182 - INFO - URL ::: https://www.reddit.com/r/dataengineersindia//best/.json
+2026-03-15 19:56:54,458 - INFO - 192.168.1.18 - - [15/Mar/2026 19:56:54] "POST /scrape HTTP/1.1" 200 -
+2026-03-15 20:05:22,866 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.23.34.247:5000
+2026-03-15 20:05:22,949 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-15 20:06:20,619 - INFO - dataengineersindia best test
+2026-03-15 20:06:20,620 - INFO - URL ::: https://www.reddit.com/r/dataengineersindia//best/.json
+2026-03-15 20:07:56,445 - INFO - 172.23.34.247 - - [15/Mar/2026 20:07:56] "POST /scrape HTTP/1.1" 200 -
+2026-03-15 14:39:51,827 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.128.2:5000
+2026-03-15 14:39:51,828 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-15 14:40:00,871 - INFO - dataengineersindia best test
+2026-03-15 14:40:00,872 - INFO - URL ::: https://www.reddit.com/r/dataengineersindia//best/.json
+2026-03-15 14:40:01,553 - INFO - 172.23.34.247 - - [15/Mar/2026 14:40:01] "[35m[1mPOST /scrape HTTP/1.1[0m" 500 -
+2026-03-15 14:41:54,633 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://172.23.34.247:5003
+2026-03-15 14:41:54,634 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-15 14:42:51,652 - INFO - dataengineersindia best test
+2026-03-15 14:42:51,653 - INFO - URL ::: https://www.reddit.com/r/dataengineersindia//best/.json
+2026-03-15 14:42:52,009 - INFO - 172.23.34.247 - - [15/Mar/2026 14:42:52] "[35m[1mPOST /scrape HTTP/1.1[0m" 500 -
+2026-03-15 14:44:21,303 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://172.23.34.247:5003
+2026-03-15 14:44:21,304 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-15 14:44:26,375 - INFO - dataengineersindia best test
+2026-03-15 14:44:26,377 - INFO - URL ::: https://www.reddit.com/r/dataengineersindia//best/.json
+2026-03-15 14:44:26,751 - INFO - 172.23.34.247 - - [15/Mar/2026 14:44:26] "[35m[1mPOST /scrape HTTP/1.1[0m" 500 -
+2026-03-15 14:50:41,477 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://172.23.34.247:5003
+2026-03-15 14:50:41,477 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-15 14:52:23,940 - INFO - dataengineersindia best test
+2026-03-15 14:52:23,942 - INFO - URL ::: https://www.reddit.com/r/dataengineersindia//best/.json
+2026-03-15 14:52:24,311 - INFO - 172.23.34.247 - - [15/Mar/2026 14:52:24] "[35m[1mPOST /scrape HTTP/1.1[0m" 500 -
+2026-03-15 15:17:41,385 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://172.23.34.247:5003
+2026-03-15 15:17:41,386 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-15 15:17:46,700 - INFO - dataengineersindia best test
+2026-03-15 15:17:46,701 - INFO - URL ::: https://www.reddit.com/r/dataengineersindia//best/.json
+2026-03-15 15:19:16,696 - INFO - 172.23.34.247 - - [15/Mar/2026 15:19:16] "POST /scrape HTTP/1.1" 200 -
+2026-03-15 15:36:10,989 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.128.2:5003
+2026-03-15 15:36:10,989 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-15 15:36:41,697 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.128.2:5000
+2026-03-15 15:36:41,697 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-15 15:37:00,138 - INFO - [test] POST /scrape — subreddit: dataengineersindia | category: best
+2026-03-15 15:37:00,138 - INFO - [test] Starting scrape — subreddit: r/dataengineersindia | category: best
+2026-03-15 15:37:00,139 - INFO - [test] Fetching subreddit listing: https://www.reddit.com/r/dataengineersindia//best/.json
+2026-03-15 15:37:02,083 - INFO - [test] Found 25 posts in r/dataengineersindia/best
+2026-03-15 15:37:02,083 - DEBUG - [test] [0] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rubeah/rejected_by_a_top_uk_banks_hyderabad_centre/.json
+2026-03-15 15:37:02,084 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rubeah/rejected_by_a_top_uk_banks_hyderabad_centre/.json
+2026-03-15 15:37:04,836 - DEBUG - Post scraped — title: 'Rejected by a Top UK Bank's Hyderabad Centre despite clearing technical rounds. Facing blatant regional bias' | author: Acrobatic_Treacle_62
+2026-03-15 15:37:04,837 - DEBUG - Parsing 4 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rubeah/rejected_by_a_top_uk_banks_hyderabad_centre/.json
+2026-03-15 15:37:05,837 - DEBUG - [test] [1] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rud033/data_engineers_working_at_visa_how_is_your/.json
+2026-03-15 15:37:05,838 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rud033/data_engineers_working_at_visa_how_is_your/.json
+2026-03-15 15:37:08,263 - DEBUG - Post scraped — title: 'Data engineers working at VISA, how is your experience?' | author: FuzzyDunlop134
+2026-03-15 15:37:08,264 - DEBUG - Parsing 0 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rud033/data_engineers_working_at_visa_how_is_your/.json
+2026-03-15 15:37:09,265 - DEBUG - [test] [2] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1ru6lh0/hiring_data_engineer_3_yoe_bangalore/.json
+2026-03-15 15:37:09,265 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1ru6lh0/hiring_data_engineer_3_yoe_bangalore/.json
+2026-03-15 15:37:12,010 - DEBUG - Post scraped — title: 'Hiring – Data Engineer (3+ YOE) – Bangalore' | author: Interesting-Star8603
+2026-03-15 15:37:12,011 - DEBUG - Parsing 4 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1ru6lh0/hiring_data_engineer_3_yoe_bangalore/.json
+2026-03-15 15:37:13,012 - DEBUG - [test] [3] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rubt1w/i_have_2_yoe_in_full_stack_dev_and_a_hint_of/.json
+2026-03-15 15:37:13,013 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rubt1w/i_have_2_yoe_in_full_stack_dev_and_a_hint_of/.json
+2026-03-15 15:37:15,438 - DEBUG - Post scraped — title: 'I have 2 yoe in full stack dev and a hint of Power platform tools. I am currently learning Data Engineering rigorously. The AWS certification, then the tools. Is there any hope I can break into this role in a decent company?' | author: alan_d_daniels
+2026-03-15 15:37:15,438 - DEBUG - Parsing 0 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rubt1w/i_have_2_yoe_in_full_stack_dev_and_a_hint_of/.json
+2026-03-15 15:37:16,439 - DEBUG - [test] [4] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rug97d/offer_suggestions/.json
+2026-03-15 15:37:16,440 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rug97d/offer_suggestions/.json
+2026-03-15 15:37:19,185 - DEBUG - Post scraped — title: 'Offer Suggestions' | author: AdRude2525
+2026-03-15 15:37:19,186 - DEBUG - Parsing 5 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rug97d/offer_suggestions/.json
+2026-03-15 15:37:20,187 - DEBUG - [test] [5] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1ru3po3/work_culture/.json
+2026-03-15 15:37:20,187 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1ru3po3/work_culture/.json
+2026-03-15 15:37:22,607 - DEBUG - Post scraped — title: 'Work Culture' | author: ActivityMental4417
+2026-03-15 15:37:22,607 - DEBUG - Parsing 1 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1ru3po3/work_culture/.json
+2026-03-15 15:37:23,608 - DEBUG - [test] [6] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rts6b2/priceline_round_2_interview_experience_gcp_data/.json
+2026-03-15 15:37:23,609 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rts6b2/priceline_round_2_interview_experience_gcp_data/.json
+2026-03-15 15:37:26,048 - DEBUG - Post scraped — title: 'Priceline – Round 2 Interview Experience (GCP Data Engineer, Mumbai); YoE: 4' | author: Pani-Puri-4
+2026-03-15 15:37:26,048 - DEBUG - Parsing 2 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rts6b2/priceline_round_2_interview_experience_gcp_data/.json
+2026-03-15 15:37:27,049 - DEBUG - [test] [7] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1ru4psi/hiring_lead_data_engineer_7_yoe_delhivery/.json
+2026-03-15 15:37:27,050 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1ru4psi/hiring_lead_data_engineer_7_yoe_delhivery/.json
+2026-03-15 15:37:29,510 - DEBUG - Post scraped — title: '[Hiring] Lead Data Engineer (7+ YOE) | Delhivery' | author: SimpleVegetable8153
+2026-03-15 15:37:29,513 - DEBUG - Parsing 0 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1ru4psi/hiring_lead_data_engineer_7_yoe_delhivery/.json
+2026-03-15 15:37:30,514 - DEBUG - [test] [8] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rtt2j5/tcs_interview/.json
+2026-03-15 15:37:30,515 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rtt2j5/tcs_interview/.json
+2026-03-15 15:37:33,016 - DEBUG - Post scraped — title: 'TCS interview' | author: BIG_BLACK_SHEEP
+2026-03-15 15:37:33,017 - DEBUG - Parsing 2 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rtt2j5/tcs_interview/.json
+2026-03-15 15:37:34,017 - DEBUG - [test] [9] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rtmvny/de_intern_here_help/.json
+2026-03-15 15:37:34,018 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rtmvny/de_intern_here_help/.json
+2026-03-15 15:37:36,756 - DEBUG - Post scraped — title: 'DE intern here ( help )' | author: jainwin_01
+2026-03-15 15:37:36,757 - DEBUG - Parsing 6 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rtmvny/de_intern_here_help/.json
+2026-03-15 15:37:37,758 - DEBUG - [test] [10] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rtmb8q/need_referal_for_data_engineer_with_90_days_np/.json
+2026-03-15 15:37:37,759 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rtmb8q/need_referal_for_data_engineer_with_90_days_np/.json
+2026-03-15 15:37:40,163 - DEBUG - Post scraped — title: 'Need referal for data engineer with 90 days NP.' | author: abhipinglu
+2026-03-15 15:37:40,163 - DEBUG - Parsing 0 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rtmb8q/need_referal_for_data_engineer_with_90_days_np/.json
+2026-03-15 15:37:41,164 - DEBUG - [test] [11] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rtd2ti/experience_with_naukri_pro_and_its_benefits/.json
+2026-03-15 15:37:41,165 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rtd2ti/experience_with_naukri_pro_and_its_benefits/.json
+2026-03-15 15:37:43,898 - DEBUG - Post scraped — title: 'Experience with Naukri pro and its benefits' | author: Leooomessi10
+2026-03-15 15:37:43,898 - DEBUG - Parsing 4 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rtd2ti/experience_with_naukri_pro_and_its_benefits/.json
+2026-03-15 15:37:44,899 - DEBUG - [test] [12] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rtjhtl/how_to_move_into_data_engineering_from_a/.json
+2026-03-15 15:37:44,900 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rtjhtl/how_to_move_into_data_engineering_from_a/.json
+2026-03-15 15:37:47,664 - DEBUG - Post scraped — title: 'How to move into  data engineering from a config-heavy data role?' | author: PirateGodzilla
+2026-03-15 15:37:47,664 - DEBUG - Parsing 3 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rtjhtl/how_to_move_into_data_engineering_from_a/.json
+2026-03-15 15:37:48,665 - DEBUG - [test] [13] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rtdo6n/recently_hired_at_mathco_looking_for_honest/.json
+2026-03-15 15:37:48,666 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rtdo6n/recently_hired_at_mathco_looking_for_honest/.json
+2026-03-15 15:37:51,102 - DEBUG - Post scraped — title: 'Recently hired at MathCo – looking for honest insights about the work culture' | author: Dragon_1201_
+2026-03-15 15:37:51,103 - DEBUG - Parsing 1 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rtdo6n/recently_hired_at_mathco_looking_for_honest/.json
+2026-03-15 15:37:52,104 - DEBUG - [test] [14] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rtddex/offer_discussion/.json
+2026-03-15 15:37:52,104 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rtddex/offer_discussion/.json
+2026-03-15 15:37:55,221 - DEBUG - Post scraped — title: 'Offer discussion' | author: Impulsive_Impala
+2026-03-15 15:37:55,221 - DEBUG - Parsing 3 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rtddex/offer_discussion/.json
+2026-03-15 15:37:56,222 - DEBUG - [test] [15] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rtnmpt/review_test_and_please_share_bugs_in_the_framework/.json
+2026-03-15 15:37:56,223 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rtnmpt/review_test_and_please_share_bugs_in_the_framework/.json
+2026-03-15 15:37:58,956 - DEBUG - Post scraped — title: 'Review , Test and please share bugs in the Framework' | author: kiragameon92
+2026-03-15 15:37:58,957 - DEBUG - Parsing 1 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rtnmpt/review_test_and_please_share_bugs_in_the_framework/.json
+2026-03-15 15:37:59,957 - DEBUG - [test] [16] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rtf3n4/15_yoe_in_data_migration_can_i_switch_to_data/.json
+2026-03-15 15:37:59,958 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rtf3n4/15_yoe_in_data_migration_can_i_switch_to_data/.json
+2026-03-15 15:38:02,401 - DEBUG - Post scraped — title: '1.5 YOE in Data Migration — Can I switch to Data Engineering in 6–8 months' | author: CreditAggressive832
+2026-03-15 15:38:02,402 - DEBUG - Parsing 1 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rtf3n4/15_yoe_in_data_migration_can_i_switch_to_data/.json
+2026-03-15 15:38:03,402 - DEBUG - [test] [17] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rt8c66/first_time_building_an_aws_data_platform_looking/.json
+2026-03-15 15:38:03,403 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rt8c66/first_time_building_an_aws_data_platform_looking/.json
+2026-03-15 15:38:06,540 - DEBUG - Post scraped — title: 'First time building an AWS Data Platform - looking for advice on architecture and pitfalls' | author: ReconcileAny
+2026-03-15 15:38:06,540 - DEBUG - Parsing 4 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rt8c66/first_time_building_an_aws_data_platform_looking/.json
+2026-03-15 15:38:07,541 - DEBUG - [test] [18] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rsvrtx/deloitte_lowballed_me/.json
+2026-03-15 15:38:07,541 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rsvrtx/deloitte_lowballed_me/.json
+2026-03-15 15:38:10,777 - DEBUG - Post scraped — title: 'Deloitte Lowballed me?' | author: lunaticdevill
+2026-03-15 15:38:10,778 - DEBUG - Parsing 12 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rsvrtx/deloitte_lowballed_me/.json
+2026-03-15 15:38:11,779 - DEBUG - [test] [19] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rsljy1/got_lowballed_by_epam_afraid_to_counter/.json
+2026-03-15 15:38:11,779 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rsljy1/got_lowballed_by_epam_afraid_to_counter/.json
+2026-03-15 15:38:14,844 - DEBUG - Post scraped — title: 'Got lowballed by EPAM. Afraid to counter' | author: roguejedi04
+2026-03-15 15:38:14,844 - DEBUG - Parsing 12 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rsljy1/got_lowballed_by_epam_afraid_to_counter/.json
+2026-03-15 15:38:15,845 - DEBUG - [test] [20] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rstik2/bench_for_career_switch/.json
+2026-03-15 15:38:15,912 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rstik2/bench_for_career_switch/.json
+2026-03-15 15:38:18,332 - DEBUG - Post scraped — title: 'Bench for career switch' | author: PAHADI_MSB_07
+2026-03-15 15:38:18,332 - DEBUG - Parsing 1 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rstik2/bench_for_career_switch/.json
+2026-03-15 15:38:19,333 - DEBUG - [test] [21] Skipping external URL: https://i.redd.it/tw5b0eunptog1.png.json
+2026-03-15 15:38:19,333 - DEBUG - [test] [22] Resolved relative URL: https://www.reddit.com/r/learnmachinelearning/comments/1rswmyp/data_scientists_ml_engineers_what_laptop/.json
+2026-03-15 15:38:19,334 - DEBUG - [test] [22] Scraping post: https://www.reddit.com/r/learnmachinelearning/comments/1rswmyp/data_scientists_ml_engineers_what_laptop/.json
+2026-03-15 15:38:19,335 - DEBUG - Fetching post: https://www.reddit.com/r/learnmachinelearning/comments/1rswmyp/data_scientists_ml_engineers_what_laptop/.json
+2026-03-15 15:38:22,147 - DEBUG - Post scraped — title: 'Data Scientists / ML Engineers – What laptop configuration are you using? (MacBook advice)' | author: Beautiful-Time4303
+2026-03-15 15:38:22,148 - DEBUG - Parsing 12 top-level comments for: https://www.reddit.com/r/learnmachinelearning/comments/1rswmyp/data_scientists_ml_engineers_what_laptop/.json
+2026-03-15 15:38:23,149 - DEBUG - [test] [23] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rshak7/got_layoff_5_yoe/.json
+2026-03-15 15:38:23,149 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rshak7/got_layoff_5_yoe/.json
+2026-03-15 15:38:26,278 - DEBUG - Post scraped — title: 'Got Layoff - 5+ YoE' | author: Odd-Demand1789
+2026-03-15 15:38:26,278 - DEBUG - Parsing 20 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rshak7/got_layoff_5_yoe/.json
+2026-03-15 15:38:27,279 - DEBUG - [test] [24] Scraping post: https://www.reddit.com/r/dataengineersindia/comments/1rsimfn/epam_vs_hcl_tech/.json
+2026-03-15 15:38:27,280 - DEBUG - Fetching post: https://www.reddit.com/r/dataengineersindia/comments/1rsimfn/epam_vs_hcl_tech/.json
+2026-03-15 15:38:30,013 - DEBUG - Post scraped — title: 'EPAM vs HCL TECH' | author: HonestYam1957
+2026-03-15 15:38:30,014 - DEBUG - Parsing 9 top-level comments for: https://www.reddit.com/r/dataengineersindia/comments/1rsimfn/epam_vs_hcl_tech/.json
+2026-03-15 15:38:31,014 - INFO - [test] Scrape complete — scraped: 24 | skipped: 1
+2026-03-15 15:38:31,023 - INFO - [test] File saved: ./mdfiles/20260315/reddit_scrape_best_test_20260315_153700.md
+2026-03-15 15:38:31,024 - INFO - [test] Sending file to client: reddit_scrape_best_test_20260315_153700.md
+2026-03-15 15:38:31,368 - INFO - 172.23.34.247 - - [15/Mar/2026 15:38:31] "POST /scrape HTTP/1.1" 200 -
+2026-03-15 16:17:03,102 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.128.2:5000
+2026-03-15 16:17:03,103 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-15 16:17:35,151 - INFO - [test] POST /scrape — subreddit: dataengineersindia | category: best
+2026-03-15 16:17:35,152 - INFO - [test] Starting scrape — subreddit: r/dataengineersindia | category: best
+2026-03-15 16:17:35,155 - INFO - [test] Fetching subreddit listing: https://www.reddit.com/r/dataengineersindia//best/.json
+2026-03-15 16:17:35,651 - ERROR - Error scraping subreddit 'dataengineersindia' [test]: HTTP Error 403: Blocked
+Traceback (most recent call last):
+  File "/app/scraper/scraper.py", line 81, in scrape_RedditSub
+    with urllib.request.urlopen(req, timeout=15) as response:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Blocked
+2026-03-15 16:17:35,665 - ERROR - Request failed [traceid=test]: HTTP Error 403: Blocked
+Traceback (most recent call last):
+  File "/app/resources/resources.py", line 34, in post
+    mdfile = scrape_RedditSub(reddit_page=subreddit, category=category, traceid=traceid, utc_now=utc_now)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/scraper/scraper.py", line 129, in scrape_RedditSub
+    raise ex
+  File "/app/scraper/scraper.py", line 81, in scrape_RedditSub
+    with urllib.request.urlopen(req, timeout=15) as response:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Blocked
+2026-03-15 16:17:35,677 - INFO - 172.23.34.247 - - [15/Mar/2026 16:17:35] "[35m[1mPOST /scrape HTTP/1.1[0m" 500 -
+2026-03-15 16:23:22,585 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.128.2:5000
+2026-03-15 16:23:22,586 - INFO - [33mPress CTRL+C to quit[0m
