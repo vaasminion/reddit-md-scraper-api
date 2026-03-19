@@ -3,7 +3,7 @@ services:
   reddit_scraper_api:
     build:
       context: "."
-      dockerfile: "Dockerfile" 
+      dockerfile: "Dockerfile"
     image: reddit_scraper_api_image
     container_name: reddit_scraper_api_container
     environment:
@@ -11,7 +11,6 @@ services:
     restart: on-failure
     volumes:
       - ${PWD}:/app/
-    #network_mode: "host"
     ports:
       - 5002:5000
     dns:

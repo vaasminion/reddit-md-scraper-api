@@ -41,7 +41,6 @@ docker-compose up --build
 ```
 
 With authentication enabled:
-
 ```bash
 export REDDIT_SCRAPER_API_KEY=your-secret-key
 docker-compose up --build

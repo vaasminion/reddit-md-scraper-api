@@ -37,10 +37,24 @@ def scrape_RedditPost(url):
     req = urllib.request.Request(url)
     req.add_header('User-Agent', USER_AGENT)
     req.add_header('Accept', 'application/json')
-    with urllib.request.urlopen(req, timeout=15) as response:
-        commentdata = json.loads(response.read().decode('utf-8'))
-    time.sleep(2)
+    retryLimit = 3
+    retryCount = 0
     result = ''
+    while True:
+        try:
+            with urllib.request.urlopen(req, timeout=15) as response:
+                commentdata = json.loads(response.read().decode('utf-8'))
+            break
+        except Exception as e:
+            logger.error(f"Error fetching post: {url} - {e}")
+            if retryCount < retryLimit and (('timed out' in str(e).lower() or 'timeout' in str(e).lower()) or '429' in str(e)):
+                retryCount += 1
+                logger.info(f"Retrying ({retryCount}/{retryLimit})...")
+                time.sleep(3)
+                continue
+            else:
+                logger.error(f"Failed to fetch post after {retryLimit} attempts: {url}")
+                raise e
 
     for userpost in commentdata[0]['data']['children']:
         author_name = userpost['data']['author']
@@ -56,8 +70,14 @@ def scrape_RedditPost(url):
 
     comment_list = commentdata[1]['data']['children']
     logger.debug(f"Parsing {len(comment_list)} top-level comments for: {url}")
-    comments = get_comments(comment_list)
-    result += f'[COMMENTS] :: {comments} \n'
+    comments = ''
+    try:
+        comments = get_comments(comment_list)
+    except Exception as e:
+        logger.error(f"Error parsing comments for {url}: {e}")
+    #    comments = '[ERROR] :: Failed to parse comments\n'
+    if not comments == '':
+        result += f'[COMMENTS] :: {comments} \n'
     return result
 
 
