@@ -12,8 +12,9 @@ _fetcher = Fetcher()
 
 
 def _fetch_json(url, traceid, retries=3):
+    USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0'
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'User-Agent': USER_AGENT,#'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
         'Accept': 'application/json',
         'Accept-Language': 'en-US,en;q=0.9',
     }
@@ -26,6 +27,13 @@ def _fetch_json(url, traceid, retries=3):
                     time.sleep(3 * attempt)
                     continue
                 raise Exception(f"Rate limited after {retries} attempts: {url}")
+            elif response.status != 200:
+                logger.warning(f'Reponse :: {response}')
+                if attempt < retries:
+                    time.sleep(3 * attempt)
+                    continue
+                raise Exception(f'Request Failed with {response}')
+            #logger.debug(f'RESPONSE :: {response}')
             return response.json()
         except Exception as e:
             logger.error(f"[{traceid}] Error fetching {url} (attempt {attempt}/{retries}): {e}")
