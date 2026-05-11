@@ -3,28 +3,29 @@ import os
 from flask import Flask
 from flask_restful import Api
 from flasgger import Swagger
-
+from werkzeug.middleware.proxy_fix import ProxyFix  # ← add this
 from config import MD_FILES
 from resources import RedditScraper, RedditScraperV2
 
 app = Flask(__name__)
+app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1)  # ← add this
 api = Api(app)
-api.add_resource(RedditScraper, '/scrape')
-api.add_resource(RedditScraperV2, '/v2/scrape')
+api.add_resource(RedditScraper, '/api/reddit/v1/scrape')
+api.add_resource(RedditScraperV2, '/api/reddit/v2/scrape')
 
 swagger_config = {
     "headers": [],
     "specs": [
         {
             "endpoint": "apispec",
-            "route": "/apispec.json",
+            "route": "/api/reddit/apispec.json",
             "rule_filter": lambda rule: True,
             "model_filter": lambda tag: True,
         }
     ],
-    "static_url_path": "/flasgger_static",
+    "static_url_path": "/api/reddit/flasgger_static",
     "swagger_ui": True,
-    "specs_route": "/docs/",
+    "specs_route": "/api/reddit/docs/",
     "swagger_ui_config": {
         "persistAuthorization": True,
     },
